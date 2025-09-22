@@ -7,6 +7,14 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Serviços de storage;
 - Informações sobre serviços com versão prévia.
 
+# Componentes de arquitetura do Azure
+
+- Regiões, pares de região e região sobrerana;
+- Zonas de disponibilidade e datacenters;
+- Recursos e grupos de recursos;
+- Assinaturas e grupos de gerenciamento;
+- Hierarquia de grupos de recursos, assinaturas e grupos de gerenciamento.
+
 # Computação e rede
 
 - Criar uma nova VM, entendendo modelos com configurações pré-definidas, ou criando uma do zero.
