@@ -24,4 +24,12 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Alertas de monitoramento da VM.
 - Area de trabalho remota utilzando um pool de host.
 - No uso de funções para aplicativos de funções, as opções de hospedagem podem variar de acordo com a linguagem de programação, pois uma pode ser Windows e outra Linux.
+
+# Armazenamento
+
+Tipos de armazenamentos no Storage do Azure
+
+- Para grandes volumes é recomendado soluções como Data Box Disk, Data Box ou Data Box Heavy onde serão feitas cópias fisicas e enviadas ao data center de escolha. São soluções para grandes empresas pois o custo é elevado.
+- Categorias de armazenamento blob, files, queues e tables.  Blob para tipos genéricos de arquivos, files permite todo e qualquer tipo de arquivo e posterior compartilhamento \\, queues pode ser usado como mensagerias e table para criação de tabelas ordenadas.
+- Durante a criação de um tipo de armazenamento vale ressaltar o tipo de acesso a essa informação, onde podemos ter acesso frequente, exporádico, frio, ou arquivo morto, isso pode impactar no custo de armazenamento e de acesso a informação. 
   
