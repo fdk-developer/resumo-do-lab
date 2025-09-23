@@ -33,7 +33,7 @@ Tipos de armazenamentos no Storage do Azure
 - Categorias de armazenamento blob, files, queues e tables.  Blob para tipos genéricos de arquivos, files permite todo e qualquer tipo de arquivo e posterior compartilhamento \\, queues pode ser usado como mensagerias e table para criação de tabelas ordenadas.
 - Durante a criação de um tipo de armazenamento vale ressaltar o tipo de acesso a essa informação, onde podemos ter acesso frequente, exporádico, frio, ou arquivo morto, isso pode impactar no custo de armazenamento e de acesso a informação. 
 
-Identidade, Acesso e Segurança
+# Identidade, Acesso e Segurança
 
 - A família do Microsoft AD (Active Directory) passou a ser chamado agora é Microsoft Entra;
 - Métodos de autenticação no Azure, SSO, MGA e sem senha como por exemplo do Hello do Windows utilizando uma webcam;
