@@ -40,3 +40,12 @@ Tipos de armazenamentos no Storage do Azure
 - Acesso exetrno ed convidados no Azure;
 - Acesso condicional do Entra com base dem função (RBAC - Rule Based Access Controll);
 
+# Gerenciamento de custos
+
+- Calculadora de custos TCO (fazer cálculos para estimar um custo do ambiente atual (Ex: on-premisse) para o azure);
+- Tipo de licença pode ser utilizada como híbrido, onde podemos reduzir custos utilizando nossa licença local.
+- Máquina virtual com plano de reserva pode reduzir custos ao invés de pagar conforme uso.
+- Podemos criar alertas de custos onde caso passar de um valor x eu possa recer um aviso como um e-mail;
+- Temos as recomendações de assistente também que faz sugestões para reduzir custos;
+- Adicionar TAG (marcações) para organizar e facilitar a identificação no centro de custos.
+
