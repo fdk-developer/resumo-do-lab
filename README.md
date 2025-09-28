@@ -49,3 +49,13 @@ Tipos de armazenamentos no Storage do Azure
 - Temos as recomendações de assistente também que faz sugestões para reduzir custos;
 - Adicionar TAG (marcações) para organizar e facilitar a identificação no centro de custos.
 
+# Governança e Conformidade
+
+- Azure Policy são padrões de conformidade, as policy são acimas de grupos de permissões, impõem padrões organizacionais;
+- Apolices non-compliant são apólices criadas onde não estão em conformidades com recursos já existentes antes da criação dela;
+- Remediação, altera cenários para que entre em compliant com cenários de acordo com a apólice, deve-se ter cuidado pois pode deixar disponíveis alguns recursos que estão fora da política;
+- Bloqueio de recursos, proteje os recursos do azure de exclusão ou modificação acidental, bloqueio na assinatura, grupo de recursos ou níveis de recursos;
+- Tipos de bloqueio, o readonly não permite alterar por ex. o status de uma vm de desligar para ligada, já o tipo de bloqueio excluir, permite desligar e ligação, porém não permite excluir também;
+- Portal de confiança do serviço, todas as regras que a Microsof segue, questão de protocolos, leis, para atender expectativas dos clientes;
+- Microsoft Puerview gerenciamento de governança, risco e conformidade, traz uma visibilidade para uma auditoria, descoberta de dados, classificação e linhagem ou ciclo de vida (quem tem acesso etc..).
+
