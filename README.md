@@ -59,7 +59,6 @@ Tipos de armazenamentos no Storage do Azure
 - Portal de confiança do serviço, todas as regras que a Microsof segue, questão de protocolos, leis, para atender expectativas dos clientes;
 - Microsoft Puerview gerenciamento de governança, risco e conformidade, traz uma visibilidade para uma auditoria, descoberta de dados, classificação e linhagem ou ciclo de vida (quem tem acesso etc..).
 
-
 # Ferramentas de implantação de recursos
 
 - Portal di Azure, Azure PowerShell, Azure Cloud Shell, Interface de Linha de Comando (CLI);
@@ -67,6 +66,10 @@ Tipos de armazenamentos no Storage do Azure
 - Azure ARM (azura resource manager), camada de gerenciamento para criar, atualizar e excluir recursos na assinatura do Azure;
 - Infraestrutura como código, permite criar templates, utilizando modelos do ARM;
 - Bicep, linguagem nativa MS para Azure para automação de recurso no Azure, onde o ARM traduz para o JSON;
-- 
-- 
-- 
+
+# Ferramentas de Monitoramento do Azure
+
+- Assistente do Azure, ajuda analisar os recursos e faz recomendações para otimização em várias áreas no azure, serve como validação também;
+- Integridade do Serviço, mantém informações sobre a intergridades dos serviços;
+- Resource Health, exibição personalida dos recursos reais do Azure;
+- Azure monitor, faz a telemetria da nuvem na nuvem com Logs e alertas.
